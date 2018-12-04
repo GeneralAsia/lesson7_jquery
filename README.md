@@ -4,21 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/4/2018
 
 ### Student Name:  
-(First and Last Name)
+Maxwell Schwartz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Use jQuery to make hading dropdown menus
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://generalasia.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use Jquery to animate our webpages.
+2. How to create colapsable menus.
+3. How to make brownies.                     And how to create events :)
 
 # lesson7_jquery
