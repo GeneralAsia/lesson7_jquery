@@ -21,3 +21,4 @@ Web Application Development
 2. (Briefly describe a lesson/concept learned in this lesson.)
 3. (Briefly describe a lesson/concept learned in this lesson.)
 
+# lesson7_jquery
